@@ -17,6 +17,8 @@ Fill in how you would grade yourself from 1-4 in the following categories this m
 -----------------------
 ## A: End-of-Module Assessment
 
+## SELF- EVALUATION
+
 ## A: End-of-Module Assessment
 3: Student achieved a "3" or better on each category of the assessment || excused from assessment
 
@@ -31,6 +33,37 @@ Fill in how you would grade yourself from 1-4 in the following categories this m
 
 ## E: Feedback & Community Participation
 4: Student helps others to be their best selves while using peer feedback to shape their own character and behavior. They have a significant positive positive impact on the learning and spirit of the people around them.
+
+## FINAL ASSESSMENT
+
+Assessed By: Nate
+Challenge: Pantry Option 3
+Notes:
+- Some disconnect between tests and functionality and design. Not big, but a little.
+- Good typing speed
+- Able to think ahead, break down concepts and explain thinking.
+- Spends a good amount of time understanding before starting
+- Able to quickly incorporate feedback
+
+Ruby Syntax & API
+## A: End-of-Module Assessment
+* **3: Developer is able to write Ruby with some debugging of fundamental concepts**
+
+#### 2. Completion and Progress
+* **3: Developer completes baseline assignment and makes meaningful progress toward one of the Challenge options.**
+
+#### 3. Testing
+* **3: Developer writes tests that are effective validation of functionality, but don't drive the design**
+
+#### 4. Workflow
+* **3: Developer demonstrates comfort with their tools and makes some use of
+keyboard shortcuts**
+
+#### 5. Collaboration
+* **3: Developer lays out their thinking before attacking a problem and integrates feedback through the process**
+
+### 6. Enumerable & Collections
+* **3: Application demonstrates comfortable use of appropriate Enumerable methods**
 
 ## B: Individual Work & Projects
 
@@ -188,7 +221,44 @@ Headcount consists on analyzing some public data about schools in Colorado in re
 ### Evaluation Comments:
 Assessed By: Ilana
 
-### Evaluation Scores: *********PENDING********  
+Notes:
+
+109 tests all passing
+pass spec harness except one method which we talked about (not in spec)
+more robust testing needed
+some refactoring as well
+
+### Evaluation Scores:
+
+Evaluation Rubric:
+
+The project will be assessed with the following guidelines:
+
+1. Functional Expectations
+
+2: Application has some missing functionality but no crashes
+
+2. Test-Driven Development
+
+3: Application is well tested but does not balance isolation and integration tests, using only the data necessary to test the functionality
+
+3. Encapsulation / Breaking Logic into Components
+
+3: Application effectively breaks logical components apart but breaks the principle of SRP
+
+4. Fundamental Ruby & Style
+
+3: Application shows strong effort towards organization, content, and refactoring
+
+5. Enumerable & Collections
+
+3: Application demonstrates comfortable use of appropriate Enumerable methods
+
+6. Code Sanitation
+
+The output from rake sanitation:all shows...
+
+4: Zero Complaints
 
 ### Feedback from Alex:
 Amara, I had a great experience pairing with you on headcount. The project was very difficult and frustrating at times but I thought we made a great team and we were able to overcome all the obstacles that were thrown at us. I'm pretty amazed at how much we both learned by the end of the project, and I appreciate that you helped me learn these new skills. If we had one more day I know we could have finished iteration 6.
